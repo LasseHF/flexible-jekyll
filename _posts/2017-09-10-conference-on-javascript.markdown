@@ -6,7 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: js-1.png # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/8OhOC6rZC9Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/8OhOC6rZC9Q" frameborder="0" allowfullscreen></iframe>
 
 
 test

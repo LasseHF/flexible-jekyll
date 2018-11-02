@@ -12,3 +12,6 @@ As part of my education at DADIU (The National Academy of Digital Interactive En
 The game has you playing as a reincarnation of the norse god of mischief, Loki, who is looking to release ragnarok in 1991.
 
 I did the entirety of the audio work on this project, which included music, sound design, mix, implementation with Wwise, VO recording and editing. The game was created with the Unity engine.
+
+
+<iframe width="840" height="472.5" src="https://vimeo.com/298598121" frameborder="0" allowfullscreen></iframe>

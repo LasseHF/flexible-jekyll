@@ -13,5 +13,5 @@ The game has you playing as a reincarnation of the norse god of mischief, Loki, 
 
 I did the entirety of the audio work on this project, which included music, sound design, mix, implementation with Wwise, VO recording and editing. The game was created with the Unity engine.
 
+<iframe src="https://player.vimeo.com/video/298598121" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<iframe width="840" height="472.5" src="https://vimeo.com/298598121" frameborder="0" allowfullscreen></iframe>

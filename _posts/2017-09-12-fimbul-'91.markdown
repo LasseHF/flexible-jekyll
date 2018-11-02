@@ -1,0 +1,14 @@
+---
+layout: post2
+title: Fimbul '91
+date: 2017-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: transformator.jpg # Add image post (optional)
+tags: [Productivity, Software] # add tag
+---
+
+As part of my education at DADIU (The National Academy of Digital Interactive Entertainment), I did the sound design and music for a video game called “Fimbul ’91”. 
+
+The game has you playing as a reincarnation of the norse god of mischief, Loki, who is looking to release ragnarok in 1991.
+
+I did the entirety of the audio work on this project, which included music, sound design, mix, implementation with Wwise, VO recording and editing. The game was created with the Unity engine.

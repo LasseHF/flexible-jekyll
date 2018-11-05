@@ -20,5 +20,10 @@ This video was used as a teaser for the generative composition before the party.
 <iframe src="https://player.vimeo.com/video/298604599" width="840" height="472.5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/525200034&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
 [pleasure-control]: https://www.facebook.com/Pleasure-Control-1807796485956099/
 [ved-siden-af]: https://www.facebook.com/KlubVedSidenAf/

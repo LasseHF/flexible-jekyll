@@ -1,0 +1,17 @@
+---
+layout: post2
+title: The Worm Synthesizer / Music for Interactive System and Non-Interacting Participants
+date: 2017-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: Fimbul.jpg # Add image post (optional)
+tags: [Video games] # add tag
+---
+
+“The Worm Synthesizer / Music for Interactive System and Non-Interacting Participants” is a sound installation controlled by five zophorbas worms. The installation piece consists of five zophorbas worms, a camera, a video tracking algorithm and two synhtesizers. The camera, which films the worms from above, is connected to a computer, where the image data is processed by the video tracking algorithm. The algorithm identifies units in the picture and determines their position on an x- and y-axis. This processed data is then mapped onto different parameters on one of the two the synthesizer, so that the worms control the auditory output with their movement. The two synthesizers sound very differently, and only one is being being played at the time. Which synthesizer is being played, changes automatically every five minutes.
+
+The piece seeks to point out how interactive art is dependent on a reciprocal dialogue between artwork and participant. By exhibiting a system that is geared towards interaction but at the same time excludes the (human) participants and replaces them with worms (that cannot interact as they are unaware of how they affect the system), the installation draws attention to the reciprocal nature of interactivity. While this was the initial concept behind the work, it can also be understood simply as a generative aleatoric composition based on on the random movement of the worms.
+
+The installation has been exhibited at Roskilde Festival, Maker Festival and Distortion Ø.
+
+<iframe src="https://player.vimeo.com/video/255625696" width="840" height="472.5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+

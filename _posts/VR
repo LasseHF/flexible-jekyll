@@ -1,0 +1,18 @@
+---
+layout: post2
+title: Auditively warping the virtual space - VR
+date: 2017-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: vr.png # Add image post (optional)
+tags: [Virtual reality] # add tag
+---
+
+In my master thesis I explored aesthetic potentials of designing virtual reality experiences that focus on the auditive perception of space. To do this I designed a VR experience centered around a piece of music, where the individual auditive elements are spatialized using head related transfer functions. 
+
+The theoretical starting point of the thesis is a phenomenological understanding of art as a force that can provide insight into our sensory mechanisms by distorting the empirically precise experience: By warping reality as we know it, we can gain insight into how we perceive it. Therefore, the goal of the products was to warp the subjects habitual auditive experience of space so as to expose how this experience normally unfolds.
+
+The VR product was created with Max/MSP/Jitter and Ableton Live for the Oculus Development Kit 2.
+
+
+<iframe src="https://player.vimeo.com/video/255625696" width="840" height="472.5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+

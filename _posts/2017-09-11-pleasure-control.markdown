@@ -11,7 +11,7 @@ The party organizing crew [Pleasure Control][pleasure-control] threw a party at 
 
 The lighting designer working with me in the lounge had hung a curly reflective material from the ceiling, on which a projector cast moving colours (see picture). To play off of the changing and colourful light refractions of this installation, I decided to make the expression of the composition glitchy and flickering.
 
-![Reflective material](/portfolio/assets/img/reflections.jpg){:height="280px" width="490"}
+![Reflective material](/portfolio/assets/img/reflections.jpg){:height="320" width="560"}
 
 To interact with the composition, the partygoers could shine the light from their cell phones through a hole in the wall, inside which I had installed a light sensitive sensor that was connected to an Arduino that send the data to my computer on which the composition was running. Doing this activated different audio effects, affecting the sounds in the composition.
 

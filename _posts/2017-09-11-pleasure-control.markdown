@@ -1,6 +1,6 @@
 ---
 layout: post2
-title: Pleasure Control - generative composition
+title: Pleasure Control - Generative composition
 date: 2017-09-11 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: pleasure_control.png # Add image post (optional)

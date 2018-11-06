@@ -1,7 +1,7 @@
 ---
 layout: post2
 title: Skyskraber - Music
-date: 2017-09-05 00:00:00 +0300
+date: 2017-09-04 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: syskraber.jpg # Add image post (optional)
 tags: [indierock, band] # add tag

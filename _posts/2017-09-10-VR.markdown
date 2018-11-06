@@ -11,7 +11,7 @@ In my master thesis I explored aesthetic potentials of designing virtual reality
 
 The theoretical starting point of the thesis is a phenomenological understanding of art as a force that can provide insight into our sensory mechanisms by distorting the empirically precise experience: By warping reality as we know it, we can gain insight into how we perceive it. Therefore, the goal of the products was to warp the subjects habitual auditive experience of space so as to expose how this experience normally unfolds.
 
-The VR product was created with Max/MSP/Jitter and Ableton Live for the Oculus Development Kit 2.
+The VR product was created with Max/MSP/Jitter and Ableton Live for the Oculus Development Kit 2. The recording of the product should only be watched with head phones, as the spatialization will have no effect otherwise.
 
 
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/D7QLSPgq-6M" frameborder="0" allowfullscreen></iframe>

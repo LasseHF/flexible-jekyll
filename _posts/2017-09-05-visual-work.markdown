@@ -19,7 +19,7 @@ This video is a recording of the first iteration of the visuals. Watch in full s
 
 We eventually decided to simplify the visuals quite a lot. The projections that resulted from this can be seen in these gifs.
 
-![gif two](/portfolio/assets/img/installation_two.gif){:height="560" width="320"}
+![gif two](/portfolio/assets/img/installation_two.gif){:height="560" width="320"} ![gif one](/portfolio/assets/img/installation_one.gif){:height="560" width="320"}
 
 <strong>Helium - Music video</strong>
 

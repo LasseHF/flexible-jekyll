@@ -13,11 +13,11 @@ Besides working with sound, I also enjoy programming visuals in Jitter. On this 
 
 For the Pleasure Control party at Ved Siden Af (for which I also made a generative interactive composition), I made a light installation for the dancefloor. Under direction of two lighting designers I programmed generative visuals in Jitter, which were then projected into the room.
 
-This video is a recording of the first iteration of the visuals.
+This video is a recording of the first iteration of the visuals. Watch in full screen to avoid flickering.
 
-<iframe width="840" height="472.5" src="https://www.youtube.com/embed/q0u8xzDTWeY" frameborder="0" allowfullscreen></iframe>
+<iframe width="588" height="330.75" src="https://www.youtube.com/embed/q0u8xzDTWeY" frameborder="0" allowfullscreen></iframe>
 
-We eventually decided to simplify the visuals quite a lot. The projections that resulted from it can be seen in these gifs.
+We eventually decided to simplify the visuals quite a lot. The projections that resulted from this can be seen in these gifs.
 
 ![gif two](/portfolio/assets/img/installation_two.gif){:height="560" width="320"}
 

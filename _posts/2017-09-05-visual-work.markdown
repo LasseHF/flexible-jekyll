@@ -19,7 +19,7 @@ This video is a recording of the first iteration of the visuals.
 
 We eventually decided to simplify the visuals quite a lot. The projections that resulted from it can be seen in these gifs.
 
-![Gif one](https://imgur.com/a/Kgv0oKX.gif)
+![Gif one](https://imgur.com/a/Kgv0oKX)
 
 <strong>Helium - Music video</strong>
 

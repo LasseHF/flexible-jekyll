@@ -1,0 +1,14 @@
+---
+layout: post2
+title: Sandvig Is Kalas - Commercial
+date: 2017-09-06 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: iskalaset6of59.jpg # Add image post (optional)
+tags: [Programming, Learn] # add tag
+---
+
+I composed and produced the music for a commercial spot for the popular café [Sandvig Is Kalas].
+
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/i7hAFFG2A6M" frameborder="0" allowfullscreen></iframe>
+
+[Sandvig Is Kalas]: http://www.sandvigiskalas.dk/

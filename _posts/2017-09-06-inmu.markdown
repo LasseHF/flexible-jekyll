@@ -9,7 +9,7 @@ tags: [Programming, Learn] # add tag
 
 [The Inmu][inmu] is a welfare technology product designed for people with dementia. In essence it is a small, interactive and music-playing pillow that uses touch and movement to make changes in a generative composition. The Inmu consists of a micro computer, different sensors and a small speaker enclosed in a soft pillow, and the different products have different music and interaction design programmed into them.
 
-During my employment as sound- and interaction designer at [Adaptimus Aps][adaptimus] (the company that produces the Inmu), I worked with both development of prototypes and finalization of products. I would compose and produce music for the Inmus and program interaction design in Max/MSP.
+During my employment as sound- and interaction designer at [Adaptimus Aps][adaptimus], I worked with both development of prototypes and finalization of products. I would compose and produce music for the Inmus and program interaction design in Max/MSP.
 
 During the summer of 2018 I acted as lead developer on a test product that was used in a research study at DTU about the effects of adaptive music intervention for stress reduction. The results of the study can be read [here][results].
 

@@ -13,8 +13,6 @@ The game has you playing as a reincarnation of the norse god of mischief, Loki, 
 
 I did the entirety of the audio work on this project, which included music, sound design, mix, implementation with Wwise, VO recording and editing. The game was created with the Unity engine.
 
-The game is released for tablet and can be [downloaded][download] on Google Play.
-
 <iframe src="https://player.vimeo.com/video/298598121" width="840" height="472.5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [download]: https://play.google.com/store/apps/details?id=com.fluffydisc.fimbul91&hl=da

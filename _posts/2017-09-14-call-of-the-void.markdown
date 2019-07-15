@@ -7,6 +7,6 @@ img: CallOfTheVoid.jpg # Add image post (optional)
 tags: [Video games] # add tag
 ---
 
-The Great Adventure is a thesis project I did with two game designer from The Royal Danish Academy of Fine Arts Schools of Architecture, Design and Conservation. I did the entirety of the audio work on the game which included sound design, music, foley, field recording, VO, and implementation with Wwise and Unity/C#. 
+Call Of The Void is a project I did with two game designers from The Royal Danish Academy of Fine Arts Schools of Architecture, Design and Conservation. I did the entirety of the audio work on the game which included sound design, music, foley, field recording, VO and implementation with Wwise and Unity/C#. 
 
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/A8YpCZqmAHM" frameborder="0" allowfullscreen></iframe>

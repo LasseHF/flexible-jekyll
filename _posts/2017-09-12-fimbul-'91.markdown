@@ -7,7 +7,7 @@ img: Fimbul.jpg # Add image post (optional)
 tags: [Video games] # add tag
 ---
 
-As part of my education at DADIU (The National Academy of Digital Interactive Entertainment), I did the sound design and music for a video game called “Fimbul ’91”. 
+As part of my education at DADIU (The National Academy of Digital Interactive Entertainment), I worked on the video game “Fimbul ’91”.
 
 The game has you playing as a reincarnation of the norse god of mischief, Loki, who is looking to release ragnarok in 1991.
 

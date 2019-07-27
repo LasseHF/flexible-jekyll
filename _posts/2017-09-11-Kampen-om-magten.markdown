@@ -1,7 +1,7 @@
 ---
 layout: post2
 title: Kampen Om Magten (The Play for Power) - Video game
-date: 2017-09-14 00:00:00 +0300
+date: 2017-09-11 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: KampenOmMagten.png # Add image post (optional)
 tags: [Video games] # add tag

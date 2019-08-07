@@ -1,6 +1,6 @@
 title: Portfolio
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I’m Lasse. I’m a sound designer, composer and creative programmer. This is a link to my portfolio.
+  Hi, I’m Lasse. I’m a sound designer and composer. This is a link to my portfolio.
 permalink: ':title/'
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

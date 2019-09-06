@@ -8,6 +8,6 @@ tags: [Video games] # add tag
 ---
 
 
-This short video showcases some of the projects I have been invovlved in.
+This short video showcases some of the projects I have worked on.
 
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/JjBKdpxuNq8" frameborder="0" allowfullscreen></iframe>

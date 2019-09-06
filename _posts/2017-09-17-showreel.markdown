@@ -1,0 +1,13 @@
+---
+layout: post2
+title: Call Of The Void - Video game
+date: 2017-09-16 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: showreel.png # Add image post (optional)
+tags: [Video games] # add tag
+---
+
+
+This short video showcases some of the projects I have been invovlved in.
+
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/JjBKdpxuNq8" frameborder="0" allowfullscreen></iframe>

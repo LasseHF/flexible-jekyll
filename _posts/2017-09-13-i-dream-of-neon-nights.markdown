@@ -8,6 +8,6 @@ tags: [Video games] # add tag
 ---
 
 
-I am currently working on a game project lead by student game director Mark Iversen. The game is being developed in UE4 and the audio is being implemented with Wwise. I am doing sound design, music and audio implementation on the project. This is an early test scene from the upcoming game.
+I am currently working on a game project lead by student game director Mark Iversen. The game is being developed in UE4 and the audio is being implemented with Wwise. I am doing sound design, music and audio implementation on the project. This is an early test scene from the upcoming game, which will be finished in May 2020.
 
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/7hvKLQOVpbg" frameborder="0" allowfullscreen></iframe>

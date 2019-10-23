@@ -8,6 +8,6 @@ tags: [Video games] # add tag
 ---
 
 
-I am currently working on a game project lead by student game director Mark Iversen. The game is being developed in Unreal Engine 4 and will be finished in May 2020. I am doing sound design, music and audio implementation in Wwise on the project. This is an early prototype scene from the upcoming game.
+I am currently working on a vertical slice game demo with a team from The National Film School of Denmark. The game is being developed in Unreal Engine 4 and will be finished in May 2020. I am doing sound design, music and audio implementation in Wwise on the project. This is an early prototype scene from the upcoming game.
 
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/dRO1acaZwq4" frameborder="0" allowfullscreen></iframe>
